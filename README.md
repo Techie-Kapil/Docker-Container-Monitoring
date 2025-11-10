@@ -35,8 +35,6 @@ You can import pre-built community dashboards or create custom ones.
 
 ## 🚀 Quick Start
 
-## 🚀 Quick Start
-
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone https://github.com/<your-username>/Monitoring.git
